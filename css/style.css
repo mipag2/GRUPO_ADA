@@ -1,0 +1,28 @@
+h1,h2,h3,h4,h5 {
+    font-family: 'Encode Sans SC', sans-serif;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
+.cover {
+    height: 400px;
+    color: darkslategray;
+    background-image: url(file:///C:/Users/usuario/Documents/Cosas%20de%20santi/car3/car7/car2/Img/ada.png);
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: darken;
+}
+.card {
+    border: 0 !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.6), 0 2px 4px -1px rgba(0, 0, 0, 0.6);
+}
+.card-title {
+    min-height: 3rem;
+}
+.card-text {
+    min-height: 10rem;
+}
+.a {
+    text-decoration: white;
+    color: rgb(255, 255, 255);
+}
